@@ -1,49 +1,24 @@
-31,Brandon Muni,Canada
-32,Cambridge Bay,Canada
-33,Nanaimo,Canada
 21,Sault Ste Marie,Canada
-22,Winnipeg St Andrews,Canada
-23,Shearwater,Canada
 24,St Anthony,Canada
-25,Tofino,Canada
-26,Kugaaruk,Canada
 27,Baie Comeau,Canada
 28,Bagotville,Canada
 29,Baker Lake,Canada
 30,Campbell River,Canada
-34,Castlegar,Canada
-35,Miramichi,Canada
-36,Charlo,Canada
+32,Cambridge Bay,Canada
 37,Kugluktuk,Canada
-38,Coronation,Canada
-39,Chilliwack,Canada
 40,Clyde River,Canada
 41,Fairmont Hot Springs,Canada
 42,Dawson City,Canada
-43,Burwash,Canada
-44,Princeton,Canada
 45,Deer Lake,Canada
-46,Dease Lake,Canada
-47,Dauphin Barker,Canada
 48,Dawson Creek,Canada
 49,Edmonton Intl,Canada
 50,Arviat,Canada
-51,Estevan,Canada
-52,Edson,Canada
-53,Eureka,Canada
 54,Inuvik Mike Zubko,Canada
 55,Iqaluit,Canada
-56,Fredericton,Canada
-57,Forestville,Canada
 58,Flin Flon,Canada
-59,Fort Resolution,Canada
 60,Fort Simpson,Canada
-61,Kingston,Canada
 62,La Grande Riviere,Canada
-63,Gaspe,Canada
-64,Geraldton Greenstone Regional,Canada
 65,Iles De La Madeleine,Canada
-66,Hudson Bay,Canada
 67,Dryden Rgnl,Canada
 68,Ulukhaktok Holman,Canada
 69,Gjoa Haven,Canada
@@ -51,74 +26,39 @@
 71,St Hubert,Canada
 72,Hay River,Canada
 73,Halifax Intl,Canada
-74,Atikokan Muni,Canada
 75,Pond Inlet,Canada
-76,St Jean,Canada
 77,Stephenville,Canada
 78,Kamloops,Canada
 79,Waterloo,Canada
 80,Schefferville,Canada
-81,Kindersley,Canada
-82,Buttonville Muni,Canada
-83,Chapleau,Canada
-84,Meadow Lake,Canada
 85,Lloydminster,Canada
-86,Alert,Canada
 87,Kelowna,Canada
-88,Mayo,Canada
-89,Moose Jaw Air Vice Marshal C M Mcewen,Canada
 90,Fort Mcmurray,Canada
 91,Moosonee,Canada
-92,Maniwaki,Canada
-93,Montreal Intl Mirabel,Canada
 94,Natashquan,Canada
-95,Gatineau,Canada
-96,Matagami,Canada
 97,Old Crow,Canada
 98,Cold Lake,Canada
 99,High Level,Canada
 100,Ottawa Macdonald Cartier Intl,Canada
-101,Prince Albert Glass Field,Canada
-102,Peace River,Canada
-103,Southport,Canada
-104,Pitt Meadows,Canada
 105,Pickle Lake,Canada
-106,Port Menier,Canada
-107,Peterborough,Canada
 108,Prince Rupert,Canada
 109,Fort Chipewyan,Canada
-110,Muskoka,Canada
 111,Quebec Jean Lesage Intl,Canada
-112,Red Deer Regional,Canada
-113,Windsor,Canada
-114,Watson Lake,Canada
 115,Kenora,Canada
-116,Lethbridge,Canada
 117,Greater Moncton Intl,Canada
 119,Comox,Canada
 120,Regina Intl,Canada
 121,Thunder Bay,Canada
 122,Grande Prairie,Canada
-123,Yorkton Muni,Canada
-124,North Battleford,Canada
-125,Gander Intl,Canada
-126,Sydney,Canada
 127,Quesnel,Canada
 128,Resolute Bay,Canada
-129,Riviere Du Loup,Canada
 130,Roberval,Canada
-131,Rocky Mountain House,Canada
 132,Rankin Inlet,Canada
 133,Sudbury,Canada
-134,Sherbrooke,Canada
-135,Saint John,Canada
 136,Fort Smith,Canada
-137,Nanisivik,Canada
-138,Summerside,Canada
 139,Sachs Harbour,Canada
 140,Cape Dorset,Canada
 141,Thompson,Canada
-142,Trenton,Canada
 143,Timmins,Canada
 144,City Centre,Canada
 145,Tuktoyaktuk,Canada
@@ -126,28 +66,19 @@
 147,Repulse Bay,Canada
 148,Hall Beach,Canada
 149,Rouyn Noranda,Canada
-150,La Ronge,Canada
-151,Vermilion,Canada
 152,Qikiqtarjuaq,Canada
 153,Val D Or,Canada
 154,Kuujjuaq,Canada
 155,Norman Wells,Canada
 156,Vancouver Intl,Canada
-157,Buffalo Narrows,Canada
-158,Wiarton,Canada
-159,Petawawa,Canada
 160,Winnipeg Intl,Canada
 161,Wabush,Canada
 162,Williams Lake,Canada
-163,Wrigley,Canada
 164,Canadian Rockies Intl,Canada
-165,Edmonton City Centre,Canada
 166,Saskatoon J G Diefenbaker Intl,Canada
-167,Medicine Hat,Canada
 168,Fort St John,Canada
 169,Sioux Lookout,Canada
 170,Pangnirtung,Canada
-171,Timiskaming Rgnl,Canada
 172,Prince George,Canada
 173,Terrace,Canada
 174,London,Canada
@@ -157,90 +88,40 @@
 178,Calgary Intl,Canada
 179,Smithers,Canada
 180,Fort Nelson,Canada
-181,Penticton,Canada
 182,Charlottetown,Canada
 183,Taloyoak,Canada
 184,Victoria Intl,Canada
-185,Lynn Lake,Canada
-186,Swift Current,Canada
 187,Churchill,Canada
 188,Goose Bay,Canada
 189,St Johns Intl,Canada
 190,Kapuskasing,Canada
-191,Armstrong,Canada
 192,Mont Joli,Canada
 193,Lester B Pearson Intl,Canada
-194,Downsview,Canada
-195,Gore Bay Manitoulin,Canada
 196,Yellowknife,Canada
-197,Slave Lake,Canada
-198,Sandspit,Canada
-199,Chris Hadfield,Canada
 200,Port Hardy,Canada
-201,Whitecourt,Canada
 202,Sept Iles,Canada
-203,Teslin,Canada
-204,Greenwood,Canada
-205,Faro,Canada
 206,Fort Mcpherson,Canada
 465,Aldergrove,United Kingdom
-466,St Angelo,United Kingdom
 467,City,United Kingdom
 468,Londonderry Eglinton,United Kingdom
 469,Birmingham,United Kingdom
-470,Coventry,United Kingdom
-471,Leicester,United Kingdom
-472,Gloucestershire,United Kingdom
-474,Wolverhampton,United Kingdom
-475,Kemble,United Kingdom
-476,Turweston,United Kingdom
-477,Wellesbourne Mountford,United Kingdom
 478,Manchester,United Kingdom
-479,Manchester Woodford,United Kingdom
-480,Chivenor,United Kingdom
 481,St Mawgan,United Kingdom
-482,Lyneham,United Kingdom
-483,Boscombe Down,United Kingdom
-484,Culdrose,United Kingdom
-485,St Athan,United Kingdom
-486,Yeovilton,United Kingdom
-487,Haverfordwest,United Kingdom
 488,Cardiff,United Kingdom
-489,Swansea,United Kingdom
 490,Bristol,United Kingdom
 491,Liverpool,United Kingdom
 492,Luton,United Kingdom
 493,Plymouth,United Kingdom
-494,Bournemouth,United Kingdom
 495,Southampton,United Kingdom
-496,Lasham,United Kingdom
-500,Shoreham,United Kingdom
-501,Biggin Hill,United Kingdom
 502,Gatwick,United Kingdom
-503,City,United Kingdom
-504,Farnborough,United Kingdom
-505,Chalgrove,United Kingdom
-506,Blackbushe,United Kingdom
 507,Heathrow,United Kingdom
-508,Southend,United Kingdom
-509,Lydd,United Kingdom
 510,Manston,United Kingdom
-511,Brough,United Kingdom
-512,Carlisle,United Kingdom
-513,Gamston,United Kingdom
 514,Blackpool,United Kingdom
 515,Humberside,United Kingdom
-516,Walney Island,United Kingdom
 517,Leeds Bradford,United Kingdom
-518,Warton,United Kingdom
-519,Hawarden,United Kingdom
 521,Newcastle,United Kingdom
 522,Durham Tees Valley Airport,United Kingdom
 523,Nottingham East Midlands,United Kingdom
-524,Llanbedr,United Kingdom
-525,Ternhill,United Kingdom
-526,Shawbury,United Kingdom
-528,Woodvale,United Kingdom
 529,Kirkwall,United Kingdom
 530,Sumburgh,United Kingdom
 531,Wick,United Kingdom
@@ -248,151 +129,72 @@
 533,Inverness,United Kingdom
 534,Glasgow,United Kingdom
 535,Edinburgh,United Kingdom
-536,Islay,United Kingdom
 537,Prestwick,United Kingdom
-538,Benbecula,United Kingdom
-539,Scatsta,United Kingdom
-540,Dundee,United Kingdom
 541,Stornoway,United Kingdom
-542,Tiree,United Kingdom
-543,Leuchars,United Kingdom
-544,Lossiemouth,United Kingdom
-545,Cambridge,United Kingdom
-546,Conington,United Kingdom
 547,Norwich,United Kingdom
 548,Stansted,United Kingdom
-549,North Weald,United Kingdom
-550,Sheffield City,United Kingdom
-551,Cranfield,United Kingdom
 552,Exeter,United Kingdom
-553,Bristol Filton,United Kingdom
-554,Kidlington,United Kingdom
-555,Benson,United Kingdom
-556,Lakenheath,United Kingdom
-557,Mildenhall,United Kingdom
-558,Wattisham,United Kingdom
-559,Wyton,United Kingdom
-560,Fairford,United Kingdom
-561,Brize Norton,United Kingdom
-562,Odiham,United Kingdom
-563,Cosford,United Kingdom
-564,Northolt,United Kingdom
-565,Coningsby,United Kingdom
-566,Dishforth,United Kingdom
-567,Leeming,United Kingdom
-568,Church Fenton,United Kingdom
-569,Honington,United Kingdom
-570,Cottesmore,United Kingdom
-571,Scampton,United Kingdom
-572,Wittering,United Kingdom
-573,Linton On Ouse,United Kingdom
-574,Waddington,United Kingdom
-575,Topcliffe,United Kingdom
-576,Cranwell,United Kingdom
-577,Barkston Heath,United Kingdom
-578,Marham,United Kingdom
-6886,Ashford,United Kingdom
-6863,RK Heliplex,Canada
-4094,Ekati,Canada
 4106,Victoria Inner Harbour Airport,Canada
 4107,Vancouver Coal Harbour,Canada
-4236,Aklavik,Canada
 4237,Deline,Canada
 4238,Tulita,Canada
 4239,Fort Good Hope,Canada
-4240,Inuvik Town,Canada
-4241,INAWR,Canada
 4244,Paulatuk,Canada
-4246,Nicholson Peninsula,Canada
-4346,RNAS WATTON,United Kingdom
 4347,ISLES OF SCILLY,United Kingdom
-5658,Papa Stour Airport,United Kingdom
-5657,Outer Skerries Airport,United Kingdom
-5656,Foula Airport,United Kingdom
-5575,Barra Airport,United Kingdom
-5574,Anglesey Airport,United Kingdom
 5573,Penzance Heliport,United Kingdom
-5572,Lands End / St. Just Airport,United Kingdom
 5571,Westray Airport,United Kingdom
-5570,Lerwick / Tingwall Airport,United Kingdom
 5569,Sanday Airport,United Kingdom
 5568,Stronsay Airport,United Kingdom
 5567,Papa Westray Airport,United Kingdom
 5566,North Ronaldsay Airport,United Kingdom
-5565,Fair Isle Airport,United Kingdom
 5564,Eday Airport,United Kingdom
-5563,Campbeltown Airport,United Kingdom
 5562,Robin Hood Doncaster Sheffield Airport,United Kingdom
-5561,Nottingham Airport,United Kingdom
-5551,Wollaston Lake Airport,Canada
 5550,Churchill Falls Airport,Canada
-5549,Shamattawa Airport,Canada
 5548,Sandy Lake Airport,Canada
 5547,Round Lake (Weagamow Lake) Airport,Canada
 5546,Sachigo Lake Airport,Canada
 5545,Masset Airport,Canada
 5544,Muskrat Dam Airport,Canada
 5543,Kashechewan Airport,Canada
-5542,Swan River Airport,Canada
-5541,Gods River Airport,Canada
-5540,Fond-Du-Lac Airport,Canada
 5539,Eastmain River Airport,Canada
-5538,Bathurst Airport,Canada
-5537,Ilford Airport,Canada
-5536,York Landing Airport,Canada
 5535,Salluit Airport,Canada
 5534,Whale Cove Airport,Canada
 5533,Webequie Airport,Canada
 5532,Deer Lake Airport,Canada
 5531,Big Trout Lake Airport,Canada
-5530,St. Theresa Point Airport,Canada
 5529,Sanikiluaq Airport,Canada
-5528,Stony Rapids Airport,Canada
 5527,Red Lake Airport,Canada
 5526,Rae Lakes Airport,Canada
-5525,Nakina Airport,Canada
 5524,The Pas Airport,Canada
 5523,Powell River Airport,Canada
 5522,Peawanuck Airport,Canada
 5521,Pikangikum Airport,Canada
 5520,Inukjuak Airport,Canada
-5519,Oxford House Airport,Canada
-5518,Points North Landing Airport,Canada
-5517,Norway House Airport,Canada
 5516,Wemindji Airport,Canada
 5515,Umiujaq Airport,Canada
 5514,Chapais Airport,Canada
-5513,Marys Harbour Airport,Canada
 5512,Kangiqsualujjuaq (Georges River) Airport,Canada
 5511,Lutselke Airport,Canada
 5510,Lansdowne House Airport,Canada
-5509,Kimmirut Airport,Canada
 5508,Aupaluk Airport,Canada
 5507,Waskaganish Airport,Canada
 5506,Akulivik Airport,Canada
-5505,Island Lake Airport,Canada
 5504,Ivujivik Airport,Canada
 5503,Chevery Airport,Canada
 5502,Hopedale Airport,Canada
 5501,Nemiscau Airport,Canada
-5500,Vancouver Harbour Water Airport,Canada
 5499,Quaqtaq Airport,Canada
 5498,Grise Fiord Airport,Canada
 5497,Gillam Airport,Canada
 5496,Kuujjuarapik Airport,Canada
 5495,Igloolik Airport,Canada
-5494,Gods Lake Narrows Airport,Canada
-5493,Texada Gillies Bay Airport,Canada
 5492,Makkovik Airport,Canada
 5491,Fort Hope Airport,Canada
 5490,Fort Albany Airport,Canada
 5489,Fort Severn Airport,Canada
 5488,Nain Airport,Canada
 5487,Chesterfield Inlet Airport,Canada
-5486,Cartwright Airport,Canada
 5485,Lourdes De Blanc Sablon Airport,Canada
-5484,Uranium City Airport,Canada
-5483,Lac Du Bonnet Airport,Canada
 5482,Attawapiskat Airport,Canada
 5481,Kangirsuk Airport,Canada
 5480,Kasabonika Airport,Canada
@@ -402,7 +204,6 @@
 5473,Tête-à-la-Baleine Airport,Canada
 5472,Chisasibi Airport,Canada
 5471,Poplar Hill Airport,Canada
-5470,Ogoki Post Airport,Canada
 5469,Kingfisher Lake Airport,Canada
 5468,Bearskin Lake Airport,Canada
 5467,North Spirit Lake Airport,Canada
@@ -412,97 +213,16 @@
 5463,Whatì Airport,Canada
 5462,Colville Lake Airport,Canada
 5461,Rigolet Airport,Canada
-5460,Port Hope Simpson Airport,Canada
-5459,St. Lewis (Fox Harbour) Airport,Canada
-5458,Williams Harbour Airport,Canada
 5457,Anahim Lake Airport,Canada
-5456,Whistler/Green Lake Water Aerodrome,Canada
-6454,Unst Airport,United Kingdom
-6467,Oban Airport,United Kingdom
-6483,Sandown,United Kingdom
-6484,Fort William Heliport,United Kingdom
-6498,Portsmouth Airport,United Kingdom
 6789,St Augustin Airport,Canada
 6775,Bonaventure Airport,Canada
 6738,Bella Coola Airport,Canada
 6728,Tasiujaq Airport,Canada
 6727,Puvirnituq Airport,Canada
-7012,Seal Cove Seaplane Base,Canada
-7022,Berens River,Canada
-7024,Seaplane Base,Canada
-7060,Riviere Rouge - Mont-Tremblant International Inc. Airport,Canada
-7250,Fox Harbour Airport,Canada
-7251,Natuashish Airport,Canada
 7252,Postville Airport,Canada
 7253,Kangiqsujuaq - Wakeham Bay Airport,Canada
 7254,Alma Airport,Canada
 7255,Havre Saint-Pierre Airport,Canada
-7256,Rimouski Airport,Canada
-7259,Tadoule Lake Airport,Canada
-7260,Lac Brochet Airport,Canada
-7261,South Indian Lake Airport,Canada
-7262,Brochet Airport,Canada
-7263,Little Grand Rapids Airport,Canada
-7264,Cross Lake - Charlie Sinclair Memorial Airport,Canada
-7265,Red Sucker Lake Airport,Canada
 7266,Rainbow Lake Airport,Canada
-7267,Bonnyville Airport,Canada
-7268,Nanaimo Harbour Water Airport,Canada
-7269,Ganges Water Aerodrome,Canada
-7270,Bedwell Harbour Water Aerdrome,Canada
-7271,Qualicum Beach Airport,Canada
-7272,Fort St. James - Perison Airport,Canada
-7273,Boundary Bay Airport,Canada
-7274,Langley Regional Airport,Canada
 7275,Bella Bella Airport,Canada
-7276,Sechelt Aerodrome,Canada
-7277,Wekweeti Airport,Canada
-7386,Aberdeen Railway Station,United Kingdom
-7387,Glasgow Railway Station,United Kingdom
-7388,Edinburgh Waverly Station,United Kingdom
-7389,Newcastle Railway Station,United Kingdom
-7390,Leeds Railway Station,United Kingdom
-7391,Manchester Picadilly Station,United Kingdom
-7392,Liverpool Railway Station,United Kingdom
-7393,London Euston Railway Station,United Kingdom
-7405,Victoria Cruise Pier,Canada
-7462,Central Railway Station,Canada
-7463,Union Station,Canada
-7492,Colonsay Airport,United Kingdom
-7493,Coll Airport,United Kingdom
 7498,Tresco Heliport,United Kingdom
-7521,Yarmouth Airport,Canada
-7639,Paddington Station,United Kingdom
-7644,Fraser Railroad Station,Canada
-7645,Carcross,Canada
-7666,Glasgow Buchanan Bus Station,United Kingdom
-7667,London Victoria Bus Station,United Kingdom
-7696,London St Pancras,United Kingdom
-7715,Wideawake Field,United Kingdom
-7722,London Heliport,United Kingdom
-7749,Southampton Cruise Terminal,United Kingdom
-7762,Nanaimo Train Station,Canada
-7763,Victoria Rail Station British Columbia,Canada
-7764,Vancouver Cruise Terminal,Canada
-7773,White Waltham Airfield,United Kingdom
-7779,Niagara Falls Station,Canada
-7780,Burlington Airpark,Canada
-7804,Booker,United Kingdom
-7805,Bembridge,United Kingdom
-7806,Kings County Municipal Airport,Canada
-7820,Brampton Airport,Canada
-7842,Hatfield,United Kingdom
-7844,Toronto Coach Terminal,Canada
-7845,Montreal Central Bus Station,Canada
-7902,Oshawa Airport,Canada
-7968,Train Station,Canada
-7969,Train Station,Canada
-7970,Train Station,Canada
-7973,Train Station,Canada
-7974,Train Station,Canada
-7975,Train Station,Canada
-7987,Mackenzie Airport,Canada
-8024,St Pancras Railway Station,United Kingdom
-8031,Calgary Springbank Airport,Canada
-8032,Golden Airport,Canada
-8033,Revelstoke Airport,Canada
