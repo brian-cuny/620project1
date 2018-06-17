@@ -46,18 +46,34 @@ if __name__ == '__main__':
 
     # neo.query("MATCH (a:Airport) WHERE NOT EXISTS((a)-[:CONNECTS]->(:Airport)) DETACH DELETE a")
 
-    results = neo.query('MATCH (a1:Airport) '
-                        'RETURN a1.id, a1.name, a1.country')
+    # results = neo.query('MATCH (a1:Airport) '
+    #                     'RETURN a1.id, a1.name, a1.country')
+    #
+    #
+    # with open('airports_sub.csv', 'w') as write_file:
+    #     writer = csv.writer(write_file)
+    #     writer.writerows(results)
+    #
+    # results2 = neo.query('MATCH (a1:Airport)-[c:CONNECTS]->(a2:Airport) '
+    #                      'RETURN a1.id, a2.id, c.routes')
+    #
+    #
+    # with open('connections_sub.csv', 'w') as write_file:
+    #     writer = csv.writer(write_file)
+    #     writer.writerows(results2)
+
+    results3 = [r['a1.id'] for r in neo.query('MATCH (a1:Airport)-[:CONNECTS]->(a2:Airport) WHERE a1.country <> a2.country '
+                         'RETURN DISTINCT a1.id')]
 
 
-    with open('airports_sub.csv', 'w') as write_file:
-        writer = csv.writer(write_file)
-        writer.writerows(results)
-
-    results2 = neo.query('MATCH (a1:Airport)-[c:CONNECTS]->(a2:Airport) '
-                         'RETURN a1.id, a2.id, c.routes')
-
-
-    with open('connections_sub.csv', 'w') as write_file:
-        writer = csv.writer(write_file)
-        writer.writerows(results2)
+    with open('calculations.csv') as read_file:
+        with open('calculations_international.csv', 'w') as write_file:
+            writer = csv.writer(write_file)
+            writer.writerow('ID,Airport,Country,Centrality,Closeness,Eigenvector,Betweenness,International')
+            for r in csv.reader(read_file, delimiter=','):
+                if r[0] != 'ID' and int(r[0]) in results3:
+                    r.append('True')
+                    writer.writerow(r)
+                else:
+                    r.append('False')
+                    writer.writerow(r)
