@@ -1,0 +1,325 @@
+,ID,total,Equipment,Airport_Name,City,Country
+1,100,18,CRJ,Ottawa Macdonald-Cartier International Airport,Ottawa,Canada
+2,106,4,PAG,Port Menier Airport,Port Menier,Canada
+3,108,2,DH1,Prince Rupert Airport,Prince Pupert,Canada
+4,108,2,DH3,Prince Rupert Airport,Prince Pupert,Canada
+5,109,4,J31,Fort Chipewyan Airport,Fort Chipewyan,Canada
+6,111,8,DH1,Quebec Jean Lesage International Airport,Quebec,Canada
+7,112,4,J31,Red Deer Regional Airport,Red Deer Industrial,Canada
+8,113,2,DH4,Windsor Airport,Windsor,Canada
+9,113,2,319,Windsor Airport,Windsor,Canada
+10,113,2,73W,Windsor Airport,Windsor,Canada
+11,115,6,SWM,Kenora Airport,Kenora,Canada
+12,116,2,BEH,Lethbridge County Airport,Lethbridge,Canada
+13,117,6,73W,Greater Moncton International Airport,Moncton,Canada
+14,119,6,BEH,Comox Airport,Comox,Canada
+15,120,14,CRJ,Regina International Airport,Regina,Canada
+16,121,11,SWM,Thunder Bay Airport,Thunder Bay,Canada
+17,122,4,DH4,Grande Prairie Airport,Grande Prairie,Canada
+18,125,4,BEH,Gander International Airport,Gander,Canada
+19,126,2,CRJ,Sydney / J.A. Douglas McCurdy Airport,Sydney,Canada
+20,126,2,DH1,Sydney / J.A. Douglas McCurdy Airport,Sydney,Canada
+21,127,8,BEH,Quesnel Airport,Quesnel,Canada
+22,128,2,DHT,Resolute Bay Airport,Resolute,Canada
+23,128,2,AT4,Resolute Bay Airport,Resolute,Canada
+24,132,23,AT4,Rankin Inlet Airport,Rankin Inlet,Canada
+25,133,7,SWM,Sudbury Airport,Sudbury,Canada
+26,135,2,DH4,Saint John Airport,St. John,Canada
+27,135,2,DH1,Saint John Airport,St. John,Canada
+28,135,2,BEH,Saint John Airport,St. John,Canada
+29,136,8,J31,Fort Smith Airport,Fort Smith,Canada
+30,139,4,DHT,Sachs Harbour (David Nasogaluak Jr. Saaryuaq) Airport,Sachs Harbour,Canada
+31,140,4,AT4,Cape Dorset Airport,Cape Dorset,Canada
+32,141,6,AT4,Thompson Airport,Thompson,Canada
+33,143,5,SWM,Timmins/Victor M. Power,Timmins,Canada
+34,144,28,DH4,Billy Bishop Toronto City Centre Airport,Toronto,Canada
+35,145,2,DHT,Tuktoyaktuk Airport,Tuktoyaktuk,Canada
+36,146,32,333,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada
+37,147,8,AT4,Repulse Bay Airport,Repulse Bay,Canada
+38,148,4,AT4,Hall Beach Airport,Hall Beach,Canada
+39,149,4,DH1,Rouyn Noranda Airport,Rouyn,Canada
+40,149,4,DH8,Rouyn Noranda Airport,Rouyn,Canada
+41,152,2,DH8,Qikiqtarjuaq Airport,Broughton Island,Canada
+42,152,2,AT4,Qikiqtarjuaq Airport,Broughton Island,Canada
+43,153,4,J32,Val-d'Or Airport,Val D'or,Canada
+44,153,4,DH8,Val-d'Or Airport,Val D'or,Canada
+45,153,4,DH1,Val-d'Or Airport,Val D'or,Canada
+46,154,5,BET,Kuujjuaq Airport,Quujjuaq,Canada
+47,155,4,73M 733,Norman Wells Airport,Norman Wells,Canada
+48,155,4,DHT,Norman Wells Airport,Norman Wells,Canada
+49,155,4,73M,Norman Wells Airport,Norman Wells,Canada
+50,156,26,DH3,Vancouver International Airport,Vancouver,Canada
+51,160,12,73W,Winnipeg / James Armstrong Richardson International Airport,Winnipeg,Canada
+52,161,10,DH1,Wabush Airport,Wabush,Canada
+53,162,8,BEH,Williams Lake Airport,Williams Lake,Canada
+54,164,4,BE1,Cranbrook/Canadian Rockies International Airport,Cranbrook,Canada
+55,166,6,ERJ,Saskatoon John G. Diefenbaker International Airport,Saskatoon,Canada
+56,166,6,DH4,Saskatoon John G. Diefenbaker International Airport,Saskatoon,Canada
+57,167,2,BEH,Medicine Hat Airport,Medicine Hat,Canada
+58,168,6,DH4,Fort St John Airport,Fort Saint John,Canada
+59,169,23,BEH,Sioux Lookout Airport,Sioux Lookout,Canada
+60,170,4,DH8,Pangnirtung Airport,Pangnirtung,Canada
+61,170,4,AT4,Pangnirtung Airport,Pangnirtung,Canada
+62,172,10,BEH,Prince George Airport,Prince George,Canada
+63,173,4,DH1,Northwest Regional Airport Terrace-Kitimat,Terrace,Canada
+64,173,4,DH3,Northwest Regional Airport Terrace-Kitimat,Terrace,Canada
+65,174,4,CRJ,London Airport,London,Canada
+66,174,4,73W,London Airport,London,Canada
+67,175,2,73W 736,Abbotsford Airport,Abbotsford,Canada
+68,175,2,73W,Abbotsford Airport,Abbotsford,Canada
+69,176,8,737,Whitehorse / Erik Nielsen International Airport,Whitehorse,Canada
+70,177,2,DH1,North Bay Airport,North Bay,Canada
+71,177,2,SWM,North Bay Airport,North Bay,Canada
+72,178,31,73W,Calgary International Airport,Calgary,Canada
+73,179,4,DH1,Smithers Airport,Smithers,Canada
+74,180,2,BEH,Fort Nelson Airport,Fort Nelson,Canada
+75,180,2,DH1,Fort Nelson Airport,Fort Nelson,Canada
+76,180,2,D38 BEH DH3,Fort Nelson Airport,Fort Nelson,Canada
+77,181,2,DH3,Penticton Airport,Penticton,Canada
+78,182,2,73W 736,Charlottetown Airport,Charlottetown,Canada
+79,182,2,DH4,Charlottetown Airport,Charlottetown,Canada
+80,182,2,BEH,Charlottetown Airport,Charlottetown,Canada
+81,182,2,CRJ,Charlottetown Airport,Charlottetown,Canada
+82,183,5,DH8,Taloyoak Airport,Spence Bay,Canada
+83,184,8,DH4,Victoria International Airport,Victoria,Canada
+84,187,5,AT4,Churchill Airport,Churchill,Canada
+85,188,8,DH1,Goose Bay Airport,Goose Bay,Canada
+86,188,8,DHT,Goose Bay Airport,Goose Bay,Canada
+87,189,7,73W,St. John's International Airport,St. John's,Canada
+88,190,3,SWM,Kapuskasing Airport,Kapuskasing,Canada
+89,192,6,BEH,Mont Joli Airport,Mont Joli,Canada
+90,193,56,319,Lester B. Pearson International Airport,Toronto,Canada
+91,196,12,DHT,Yellowknife Airport,Yellowknife,Canada
+92,198,2,DH3,Sandspit Airport,Sandspit,Canada
+93,199,2,BEH,Chris Hadfield Airport,Sarnia,Canada
+94,200,2,SF3,Port Hardy Airport,Port Hardy,Canada
+95,200,2,SF3 BE1,Port Hardy Airport,Port Hardy,Canada
+96,202,12,DH1,Sept-Îles Airport,Sept-iles,Canada
+97,206,2,DHT,Fort Mcpherson Airport,Fort Mcpherson,Canada
+98,21,4,SWM,Sault Ste Marie Airport,Sault Sainte Marie,Canada
+99,24,2,DH1,St. Anthony Airport,St. Anthony,Canada
+100,24,2,SFB,St. Anthony Airport,St. Anthony,Canada
+101,24,2,SFB DH1,St. Anthony Airport,St. Anthony,Canada
+102,27,4,DH1,Baie Comeau Airport,Baie Comeau,Canada
+103,27,4,J32,Baie Comeau Airport,Baie Comeau,Canada
+104,27,4,BEH,Baie Comeau Airport,Baie Comeau,Canada
+105,28,4,J32,CFB Bagotville,Bagotville,Canada
+106,29,10,AT4,Baker Lake Airport,Baker Lake,Canada
+107,30,6,BEH,Campbell River Airport,Campbell River,Canada
+108,31,2,DH4,Brandon Municipal Airport,Brandon,Canada
+109,32,4,AT7,Cambridge Bay Airport,Cambridge Bay,Canada
+110,32,4,DH8 73M,Cambridge Bay Airport,Cambridge Bay,Canada
+111,33,2,DH4,Nanaimo Airport,Nanaimo,Canada
+112,33,2,DH3,Nanaimo Airport,Nanaimo,Canada
+113,34,4,DH3,Castlegar/West Kootenay Regional Airport,Castlegar,Canada
+114,36,4,SFB,Charlo Airport,Charlo,Canada
+115,37,6,AT7,Kugluktuk Airport,Coppermine,Canada
+116,40,4,AT4,Clyde River Airport,Clyde River,Canada
+117,40,4,DH8,Clyde River Airport,Clyde River,Canada
+118,41,9,AT4,Coral Harbour Airport,Coral Harbour,Canada
+119,4106,2,DHL,Victoria Harbour Seaplane Base,Victoria,Canada
+120,4106,2,S76,Victoria Harbour Seaplane Base,Victoria,Canada
+121,4237,4,DHT,Déline Airport,Deline,Canada
+122,4238,4,DHT,Tulita Airport,Tulita,Canada
+123,4239,4,DHT,Fort Good Hope Airport,Fort Good Hope,Canada
+124,4244,2,DHT,Paulatuk (Nora Aliqatchialuk Ruben) Airport,Paulatuk,Canada
+125,4347,4,DHT,St. Mary's Airport,ST MARY\\'S,United Kingdom
+126,45,4,BEH,Deer Lake Airport,Deer Lake,Canada
+127,465,28,319,Belfast International Airport,Belfast,United Kingdom
+128,467,20,DH4,George Best Belfast City Airport,Belfast,United Kingdom
+129,468,10,738,City of Derry Airport,Londonderry,United Kingdom
+130,469,42,738,Birmingham International Airport,Birmingham,United Kingdom
+131,472,2,L4T,Gloucestershire Airport,Golouchestershire,United Kingdom
+132,478,76,738,Manchester Airport,Manchester,United Kingdom
+133,48,4,DH1,Dawson Creek Airport,Dawson Creek,Canada
+134,481,6,DH4,Newquay Cornwall Airport,Newquai,United Kingdom
+135,488,17,73H,Cardiff International Airport,Cardiff,United Kingdom
+136,49,24,73W,Edmonton International Airport,Edmonton,Canada
+137,490,56,738,Bristol Airport,Bristol,United Kingdom
+138,491,66,738,Liverpool John Lennon Airport,Liverpool,United Kingdom
+139,492,70,320,London Luton Airport,London,United Kingdom
+140,494,32,738,Bournemouth Airport,Bournemouth,United Kingdom
+141,495,40,DH4,Southampton Airport,Southampton,United Kingdom
+142,50,10,AT4,Arviat Airport,Eskimo Point,Canada
+143,502,114,73H,London Gatwick Airport,London,United Kingdom
+144,503,28,E90,London City Airport,London,United Kingdom
+145,507,110,777,London Heathrow Airport,London,United Kingdom
+146,508,26,319,Southend Airport,Southend,United Kingdom
+147,514,8,73C,Blackpool International Airport,Blackpool,United Kingdom
+148,515,4,F70,Humberside Airport,Humberside,United Kingdom
+149,517,44,738,Leeds Bradford Airport,Leeds,United Kingdom
+150,519,4,ER4,Hawarden Airport,Hawarden,United Kingdom
+151,521,32,73H,Newcastle Airport,Newcastle,United Kingdom
+152,522,4,F70,Durham Tees Valley Airport,Teesside,United Kingdom
+153,523,74,738,East Midlands Airport,East Midlands,United Kingdom
+154,529,12,BNI,Kirkwall Airport,Kirkwall,United Kingdom
+155,530,8,SF3,Sumburgh Airport,Sumburgh,United Kingdom
+156,531,2,J41,Wick Airport,Wick,United Kingdom
+157,531,2,D38,Wick Airport,Wick,United Kingdom
+158,532,8,ER4,Aberdeen Dyce Airport,Aberdeen,United Kingdom
+159,532,8,J41,Aberdeen Dyce Airport,Aberdeen,United Kingdom
+160,533,6,319,Inverness Airport,Inverness,United Kingdom
+161,533,6,DH4,Inverness Airport,Inverness,United Kingdom
+162,534,31,75W,Glasgow International Airport,Glasgow,United Kingdom
+163,535,60,738,Edinburgh Airport,Edinburgh,United Kingdom
+164,536,2,SF3,Islay Airport,Islay,United Kingdom
+165,537,42,738,Glasgow Prestwick Airport,Prestwick,United Kingdom
+166,538,4,SF3,Benbecula Airport,Benbecula,United Kingdom
+167,54,12,DHT,Inuvik Mike Zubko Airport,Inuvik,Canada
+168,540,2,D38,Dundee Airport,Dundee,United Kingdom
+169,541,4,SF3,Stornoway Airport,Stornoway,United Kingdom
+170,542,2,SF3 DHT,Tiree Airport,Tiree,United Kingdom
+171,5457,2,BE1,Anahim Lake Airport,Anahim Lake,Canada
+172,5461,4,DHT,Rigolet Airport,Rigolet,Canada
+173,5463,2,DHT,Whatì Airport,Whatì,Canada
+174,5464,2,BEH,Summer Beaver Airport,Summer Beaver,Canada
+175,5465,5,BEH,Wapekeka Airport,Angling Lake,Canada
+176,5466,5,BEH,Wunnumin Lake Airport,Wunnumin Lake,Canada
+177,5467,2,BEH,North Spirit Lake Airport,North Spirit Lake,Canada
+178,5467,2,PL2 BEH,North Spirit Lake Airport,North Spirit Lake,Canada
+179,5468,8,BEH,Bearskin Lake Airport,Bearskin Lake,Canada
+180,5469,4,BEH,Kingfisher Lake Airport,Kingfisher Lake,Canada
+181,547,6,D38,Norwich International Airport,Norwich,United Kingdom
+182,5470,2,PL2,Ogoki Post Airport,Ogoki Post,Canada
+183,5471,2,BEH,Poplar Hill Airport,Poplar Hill,Canada
+184,5471,2,PL2 BEH,Poplar Hill Airport,Poplar Hill,Canada
+185,5472,6,DH8,Chisasibi Airport,Chisasibi,Canada
+186,5473,4,DHT,Tête-à-la-Baleine Airport,Tête-à-la-Baleine,Canada
+187,5474,4,DHT,La Tabatière Airport,La Tabatière,Canada
+188,5478,4,BEH,Cat Lake Airport,Cat Lake,Canada
+189,5479,5,SWM,Fort Frances Municipal Airport,Fort Frances,Canada
+190,548,252,738,London Stansted Airport,London,United Kingdom
+191,5480,4,BEH,Kasabonika Airport,Kasabonika,Canada
+192,5481,3,DH8,Kangirsuk Airport,Kangirsuk,Canada
+193,5482,4,DH1,Attawapiskat Airport,Attawapiskat,Canada
+194,5485,4,SFB,Lourdes de Blanc Sablon Airport,Lourdes-De-Blanc-Sablon,Canada
+195,5487,9,AT4,Chesterfield Inlet Airport,Chesterfield Inlet,Canada
+196,5488,8,DHT,Nain Airport,Nain,Canada
+197,5489,5,BEH,Fort Severn Airport,Fort Severn,Canada
+198,5490,4,DH1,Fort Albany Airport,Fort Albany,Canada
+199,5491,2,PL2,Fort Hope Airport,Fort Hope,Canada
+200,5492,8,DHT,Makkovik Airport,Makkovik,Canada
+201,5495,4,AT4,Igloolik Airport,Igloolik,Canada
+202,5496,10,DH8,Kuujjuarapik Airport,Kuujjuarapik,Canada
+203,5497,4,AT4,Gillam Airport,Gillam,Canada
+204,5498,2,DHT,Grise Fiord Airport,Grise Fiord,Canada
+205,5499,4,DH8,Quaqtaq Airport,Quaqtaq,Canada
+206,55,12,AT4,Iqaluit Airport,Iqaluit,Canada
+207,55,12,73M,Iqaluit Airport,Iqaluit,Canada
+208,5500,2,S76,Vancouver Harbour Water Aerodrome,Vancouver,Canada
+209,5501,4,DH8,Nemiscau Airport,Nemiscau,Canada
+210,5502,8,DHT,Hopedale Airport,Hopedale,Canada
+211,5503,4,BE1,Chevery Airport,Chevery,Canada
+212,5504,4,DH8,Ivujivik Airport,Ivujivik,Canada
+213,5506,4,DH8,Akulivik Airport,Akulivik,Canada
+214,5507,10,DH8,Waskaganish Airport,Waskaganish,Canada
+215,5508,4,DHT DH8,Aupaluk Airport,Aupaluk,Canada
+216,5509,2,DHT,Kimmirut Airport,Kimmirut,Canada
+217,5510,2,BEH,Lansdowne House Airport,Lansdowne House,Canada
+218,5510,2,BEH PL2,Lansdowne House Airport,Lansdowne House,Canada
+219,5511,2,DHT,St Georges Airport,Lutselk'e,Canada
+220,5512,2,DHT BET,Kangiqsualujjuaq (Georges River) Airport,Kangiqsualujjuaq,Canada
+221,5514,6,DH8,Chapais Airport,Chibougamau,Canada
+222,5515,6,DH8,Umiujaq Airport,Umiujaq,Canada
+223,5516,4,DH8,Wemindji Airport,Wemindji,Canada
+224,552,28,DH4,Exeter International Airport,Exeter,United Kingdom
+225,5520,3,DH8,Inukjuak Airport,Inukjuak,Canada
+226,5520,3,BET,Inukjuak Airport,Inukjuak,Canada
+227,5521,2,PL2,Pikangikum Airport,Pikangikum,Canada
+228,5522,2,DH1,Peawanuck Airport,Peawanuck,Canada
+229,5523,2,BE1 SF3,Powell River Airport,Powell River,Canada
+230,5524,4,SWM,The Pas Airport,The Pas,Canada
+231,5526,2,DHT,Rae Lakes Airport,Gamètì,Canada
+232,5527,6,SWM,Red Lake Airport,Red Lake,Canada
+233,5529,4,DH8,Sanikiluaq Airport,Sanikiluaq,Canada
+234,5531,9,BEH,Big Trout Lake Airport,Big Trout Lake,Canada
+235,5532,3,BEH,Deer Lake Airport,Deer Lake,Canada
+236,5533,2,BEH PL2,Webequie Airport,Webequie,Canada
+237,5533,2,BEH,Webequie Airport,Webequie,Canada
+238,5534,8,AT4,Whale Cove Airport,Whale Cove,Canada
+239,5535,4,DH8,Salluit Airport,Salluit,Canada
+240,5538,2,DH3 DH1,Bathurst Airport,Bathurst,Canada
+241,5539,4,DH8,Eastmain River Airport,Eastmain River,Canada
+242,5543,4,DH1,Kashechewan Airport,Kashechewan,Canada
+243,5544,8,BEH,Muskrat Dam Airport,Muskrat Dam,Canada
+244,5545,2,SF3,Masset Airport,Masset,Canada
+245,5546,4,BEH,Sachigo Lake Airport,Sachigo Lake,Canada
+246,5547,5,BEH,Round Lake (Weagamow Lake) Airport,Round Lake,Canada
+247,5548,2,PL2,Sandy Lake Airport,Sandy Lake,Canada
+248,5548,2,BEH,Sandy Lake Airport,Sandy Lake,Canada
+249,5550,4,DH1,Churchill Falls Airport,Churchill Falls,Canada
+250,5562,12,320,Robin Hood Doncaster Sheffield Airport,"Doncaster, Sheffield",United Kingdom
+251,5563,2,DHT,Campbeltown Airport,Campbeltown,United Kingdom
+252,5564,3,BNI,Eday Airport,Eday,United Kingdom
+253,5566,6,BNI,North Ronaldsay Airport,North Ronaldsay,United Kingdom
+254,5567,6,BNI,Papa Westray Airport,Papa Westray,United Kingdom
+255,5568,4,BNI,Stronsay Airport,Stronsay,United Kingdom
+256,5569,5,BNI,Sanday Airport,Sanday,United Kingdom
+257,5571,4,BNI,Westray Airport,Westray,United Kingdom
+258,5572,2,DHT BNT,Land's End Airport,Land's End,United Kingdom
+259,5574,2,J31,Anglesey Airport,Angelsey,United Kingdom
+260,5575,2,DHT,Barra Airport,Barra,United Kingdom
+261,56,2,DH4,Fredericton Airport,Fredericton,Canada
+262,56,2,DH1,Fredericton Airport,Fredericton,Canada
+263,56,2,BEH,Fredericton Airport,Fredericton,Canada
+264,58,3,SWM,Flin Flon Airport,Flin Flon,Canada
+265,60,2,AT4 AT7,Fort Simpson Airport,Fort Simpson,Canada
+266,60,2,DHT,Fort Simpson Airport,Fort Simpson,Canada
+267,61,2,BEH,Kingston Norman Rogers Airport,Kingston,Canada
+268,62,4,73M,La Grande Rivière Airport,La Grande Riviere,Canada
+269,63,2,DH1 DH3,Gaspé (Michel-Pouliot) Airport,Gaspe,Canada
+270,63,2,DH3 DH1,Gaspé (Michel-Pouliot) Airport,Gaspe,Canada
+271,65,2,PL2 J32,Îles-de-la-Madeleine Airport,Iles De La Madeleine,Canada
+272,65,2,J32 PL2,Îles-de-la-Madeleine Airport,Iles De La Madeleine,Canada
+273,67,7,SWM,Dryden Regional Airport,Dryden,Canada
+274,6727,3,DH8,Puvirnituq Airport,Puvirnituq,Canada
+275,6728,4,DHT DH8,Tasiujaq Airport,Tasiujaq,Canada
+276,6738,3,BE1,Bella Coola Airport,Bella Coola,Canada
+277,6775,3,J32,Bonaventure Airport,Bonaventure,Canada
+278,6789,2,BEH,St Augustin Airport,St-Augustin,Canada
+279,6789,2,BE1,St Augustin Airport,St-Augustin,Canada
+280,6789,2,DHT,St Augustin Airport,St-Augustin,Canada
+281,68,4,DHT,Ulukhaktok Holman Airport,Holman Island,Canada
+282,69,4,DH8,Gjoa Haven Airport,Gjoa Haven,Canada
+283,69,4,AT7,Gjoa Haven Airport,Gjoa Haven,Canada
+284,70,6,73W,John C. Munro Hamilton International Airport,Hamilton,Canada
+285,71,6,J32,Montréal / Saint-Hubert Airport,Montreal,Canada
+286,72,4,J31,Hay River / Merlyn Carter Airport,Hay River,Canada
+287,7252,8,DHT,Postville Airport,Postville,Canada
+288,7253,4,DH8,Kangiqsujuaq (Wakeham Bay) Airport,Kangiqsujuaq,Canada
+289,7255,2,BE1,Havre St Pierre Airport,Havre-Saint-Pierre,Canada
+290,7255,2,J32,Havre St Pierre Airport,Havre-Saint-Pierre,Canada
+291,7255,2,PAG,Havre St Pierre Airport,Havre-Saint-Pierre,Canada
+292,7266,4,BEH,Rainbow Lake Airport,Rainbow Lake,Canada
+293,7275,2,DHP,Denny Island Airport,Bella Bella,Canada
+294,7275,2,BE1,Denny Island Airport,Bella Bella,Canada
+295,7275,2,SF3,Denny Island Airport,Bella Bella,Canada
+296,7277,2,DHT,Wekweètì Airport,Wekweeti,Canada
+297,73,18,73W,Halifax / Stanfield International Airport,Halifax,Canada
+298,75,4,DH8,Pond Inlet Airport,Pond Inlet,Canada
+299,77,2,SFB,Stephenville Airport,Stephenville,Canada
+300,78,4,DH3,Kamloops Airport,Kamloops,Canada
+301,78,4,BEH,Kamloops Airport,Kamloops,Canada
+302,79,3,ER4 ERD,Waterloo Airport,Waterloo,Canada
+303,7987,4,ERJ,Mackenzie Airport,Mackenzie British Columbia,Canada
+304,80,2,DH8 BET,Schefferville Airport,Schefferville,Canada
+305,80,2,BET,Schefferville Airport,Schefferville,Canada
+306,80,2,SFB,Schefferville Airport,Schefferville,Canada
+307,80,2,BET DH8,Schefferville Airport,Schefferville,Canada
+308,80,2,DH8,Schefferville Airport,Schefferville,Canada
+309,8217,4,DHT,Kegaska Airport,Kegaska,Canada
+310,8223,2,SF3 BE1,Trail Airport,Trail,Canada
+311,8225,4,AT4,Old Arctic Bay Airport,Arctic Bay,Canada
+312,8355,2,BEH,Keewaywin Airport,Keewaywin,Canada
+313,87,4,737,Kelowna International Airport,Kelowna,Canada
+314,87,4,DH4,Kelowna International Airport,Kelowna,Canada
+315,87,4,CR7,Kelowna International Airport,Kelowna,Canada
+316,87,4,DH3 CRJ,Kelowna International Airport,Kelowna,Canada
+317,87,4,73W,Kelowna International Airport,Kelowna,Canada
+318,90,6,J31,Fort McMurray Airport,Fort Mcmurray,Canada
+319,91,2,BEC,Moosonee Airport,Moosonee,Canada
+320,91,2,DH1,Moosonee Airport,Moosonee,Canada
+321,94,4,BEH,Natashquan Airport,Natashquan,Canada
+322,94,4,BE1,Natashquan Airport,Natashquan,Canada
+323,94,4,DHT,Natashquan Airport,Natashquan,Canada
+324,99,4,BEH,High Level Airport,High Level,Canada
